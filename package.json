@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "concat-files": "^0.1.1",
     "exceljs": "^4.2.0",
     "glob": "^7.1.6",
