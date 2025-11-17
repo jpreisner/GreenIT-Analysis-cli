@@ -20,7 +20,7 @@
         "concat-files": "^0.1.1",
         "debug": "^4.3.0",
         "exceljs": "^4.4.0",
-        "glob": "^10.3.10",
+        "glob": "^11.1.0",
         "mustache": "^4.2.0",
         "progress": "^2.0.3",
         "puppeteer": "^23.9.0",
